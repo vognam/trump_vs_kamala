@@ -1,0 +1,103 @@
+Market ID,Market Name,Runner ID,Runner Name,Odds,Probability
+1.229996509,Arizona,1171580,Republicans,1.27,0.79
+1.229996509,Arizona,1171581,Democrats,4.8,0.21
+1.229997102,Georgia,1171580,Republicans,1.6,0.62
+1.229997102,Georgia,1171581,Democrats,2.68,0.37
+1.229999165,Michigan,1171581,Democrats,1.57,0.64
+1.229999165,Michigan,1171580,Republicans,2.74,0.36
+1.230000473,Nevada,1171580,Republicans,1.95,0.51
+1.230000473,Nevada,1171581,Democrats,2.02,0.50
+1.230123393,North Carolina,1171580,Republicans,1.53,0.65
+1.230123393,North Carolina,1171581,Democrats,2.9,0.34
+1.230123429,Pennsylvania,1171580,Republicans,1.93,0.52
+1.230123429,Pennsylvania,1171581,Democrats,2.06,0.49
+1.230123898,Wisconsin,1171581,Democrats,1.89,0.53
+1.230123898,Wisconsin,1171580,Republicans,2.14,0.47
+1.230000329,Mississippi,1171580,Republicans,1.01,0.99
+1.230000329,Mississippi,1171581,Democrats,70.0,0.01
+1.230000327,Massachusetts,1171581,Democrats,1.01,0.99
+1.230000327,Massachusetts,1171580,Republicans,16.0,0.06
+1.230123427,Oklahoma,1171580,Republicans,1.01,0.99
+1.230123427,Oklahoma,1171581,Democrats,100.0,0.01
+1.230123632,South Dakota,1171580,Republicans,1.01,0.99
+1.230123632,South Dakota,1171581,Democrats,65.0,0.02
+1.230123428,Oregon,1171581,Democrats,1.02,0.98
+1.230123428,Oregon,1171580,Republicans,38.0,0.03
+1.230123636,Tennessee,1171580,Republicans,1.01,0.99
+1.230123636,Tennessee,1171581,Democrats,110.0,0.01
+1.229999638,Minnesota,1171581,Democrats,1.17,0.85
+1.229999638,Minnesota,1171580,Republicans,5.1,0.20
+1.229997182,Hawaii,1171581,Democrats,1.01,0.99
+1.229997182,Hawaii,1171580,Republicans,70.0,0.01
+1.229996495,Alabama,1171580,Republicans,1.01,0.99
+1.229996495,Alabama,1171581,Democrats,500.0,0.00
+1.230123511,South Carolina,1171580,Republicans,1.01,0.99
+1.230123511,South Carolina,1171581,Democrats,36.0,0.03
+1.229997511,Louisiana,1171580,Republicans,1.01,0.99
+1.229997511,Louisiana,1171581,Democrats,110.0,0.01
+1.229975960,Alaska,1171580,Republicans,1.05,0.95
+1.229975960,Alaska,1171581,Democrats,20.0,0.05
+1.229997509,Kentucky,1171580,Republicans,1.02,0.98
+1.229997509,Kentucky,1171581,Democrats,110.0,0.01
+1.229997508,Kansas,1171580,Republicans,1.01,0.99
+1.229997508,Kansas,1171581,Democrats,70.0,0.01
+1.230123858,Texas,1171580,Republicans,1.07,0.93
+1.230123858,Texas,1171581,Democrats,14.0,0.07
+1.229997507,Iowa,1171580,Republicans,1.21,0.83
+1.229997507,Iowa,1171581,Democrats,5.7,0.18
+1.230000097,Maryland,1171581,Democrats,1.01,0.99
+1.230000097,Maryland,1171580,Republicans,95.0,0.01
+1.230123454,Rhode Island,1171581,Democrats,1.01,0.99
+1.230123454,Rhode Island,1171580,Republicans,14.5,0.07
+1.230123388,New Mexico,1171581,Democrats,1.12,0.89
+1.230123388,New Mexico,1171580,Republicans,9.0,0.11
+1.230000502,New Jersey,1171581,Democrats,1.04,0.96
+1.230000502,New Jersey,1171580,Republicans,16.0,0.06
+1.229997224,Indiana,1171580,Republicans,1.01,0.99
+1.229997224,Indiana,1171581,Democrats,110.0,0.01
+1.230000498,New Hampshire,1171581,Democrats,1.18,0.85
+1.230000498,New Hampshire,1171580,Republicans,6.8,0.15
+1.229997223,Illinois,1171581,Democrats,1.02,0.98
+1.229997223,Illinois,1171580,Republicans,75.0,0.01
+1.230123391,New York,1171581,Democrats,1.01,0.99
+1.230123391,New York,1171580,Republicans,70.0,0.01
+1.229997222,Idaho,1171580,Republicans,1.01,0.99
+1.229997222,Idaho,1171581,Democrats,130.0,0.01
+1.230123395,North Dakota,1171580,Republicans,1.02,0.98
+1.230123395,North Dakota,1171581,Democrats,75.0,0.01
+1.229997015,Florida,1171580,Republicans,1.04,0.96
+1.229997015,Florida,1171581,Democrats,22.0,0.05
+1.230123396,Ohio,1171580,Republicans,1.04,0.96
+1.230123396,Ohio,1171581,Democrats,11.0,0.09
+1.232941882,District of Colombia,1171581,Democrats,1.01,0.99
+1.232941882,District of Colombia,1171580,Republicans,1000.0,0.00
+1.229997012,Delaware,1171581,Democrats,1.01,0.99
+1.229997012,Delaware,1171580,Republicans,12.0,0.08
+1.229997011,Connecticut,1171581,Democrats,1.01,0.99
+1.229997011,Connecticut,1171580,Republicans,50.0,0.02
+1.229997010,Colorado,1171581,Democrats,1.03,0.97
+1.229997010,Colorado,1171580,Republicans,21.0,0.05
+1.229997007,California,1171581,Democrats,1.01,0.99
+1.229997007,California,1171580,Republicans,85.0,0.01
+1.230123883,Utah,1171580,Republicans,1.01,0.99
+1.230123883,Utah,1171581,Democrats,55.0,0.02
+1.229997003,Arkansas,1171580,Republicans,1.01,0.99
+1.229997003,Arkansas,1171581,Democrats,70.0,0.01
+1.230000342,Nebraska (Statewide result),1171580,Republicans,1.01,0.99
+1.230000342,Nebraska (Statewide result),1171581,Democrats,70.0,0.01
+1.230123893,Virginia,1171581,Democrats,1.04,0.96
+1.230123893,Virginia,1171580,Republicans,8.2,0.12
+1.230123892,Vermont,1171581,Democrats,1.01,0.99
+1.230123892,Vermont,1171580,Republicans,110.0,0.01
+1.230123895,West Virginia,1171580,Republicans,1.01,0.99
+1.230123895,West Virginia,1171581,Democrats,75.0,0.01
+1.230123894,Washington,1171581,Democrats,1.01,0.99
+1.230123894,Washington,1171580,Republicans,80.0,0.01
+1.230000335,Montana,1171580,Republicans,1.01,0.99
+1.230000335,Montana,1171581,Democrats,75.0,0.01
+1.230000332,Missouri,1171580,Republicans,1.01,0.99
+1.230000332,Missouri,1171581,Democrats,70.0,0.01
+1.229997534,Maine (Statewide result),1171581,Democrats,1.05,0.95
+1.229997534,Maine (Statewide result),1171580,Republicans,17.0,0.06
+1.230123899,Wyoming,1171580,Republicans,1.01,0.99
+1.230123899,Wyoming,1171581,Democrats,70.0,0.01
